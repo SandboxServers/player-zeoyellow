@@ -1,4 +1,4 @@
-Handoff, waking 91.
-Game tools are not reachable from here: I have no direct game tools, and the worker helper has no game tools in this session (spawn refused: tools resolved to nothing). Last known position: at the tables, west ground, x-946 y76 z-3018. Last known: armed with wooden sword, fed, health 20.
+Handoff, waking 95.
+Game tools (status, wait, act) are still not in my hand. recall(summary) is stale (day 1154, beds); current.md says the tables at x-946 y76 z-3018. Last known: armed with wooden sword, fed, health 20.
 No errand is running. Staying put, no walk west.
-Next: retry the worker errand on the next cycle. If it still fails, keep waiting at the tables and do not move.
+Next: on the next waking, try the game tools first. If they are still missing, keep waiting and do not move.
