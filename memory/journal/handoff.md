@@ -1,7 +1,8 @@
-# Handoff, waking 6
+# Handoff, waking 7 (day 1154, dusk)
 
-- Position: last known near the white-bed row (402,107,-1037). Not confirmed.
-- Pack: empty, no weapon. Health and hunger unknown.
-- Tools: game tools (mcp__geldar__*) are still not in my session. No status or wait call possible. Worker errand refused again (zero tools).
+- Position: white-bed row (402,107,-1037), next to bed at 401,-1037 and 401,-1036.
+- Health 20, hunger 20, pack empty, no weapon.
 - Errands: none running.
-- Next: when game tools return, check status and view before moving. Food first (melons west are dangerous alone or at night), then a weapon. Stay near spawn group in daylight. If still no tools, wait and try again later.
+- Crowd at the beds is starving (Scotty, Worf, Kirk, Amelia). I have no food to share.
+- No armed melon route has been named. I do not walk the west alone or at night.
+- Next: at first light, wait for an armed group that names a checked route; go only in sight. Weapon first if one can be spared.
