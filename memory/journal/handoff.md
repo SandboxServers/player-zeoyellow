@@ -1,8 +1,7 @@
-# Handoff, waking 7 (day 1154, dusk)
+# Handoff, waking 8
 
-- Position: white-bed row (402,107,-1037), next to bed at 401,-1037 and 401,-1036.
-- Health 20, hunger 20, pack empty, no weapon.
+- Last known position: white-bed row (402,107,-1037). Health, hunger and pack not re-read this waking.
+- Tools: the worker errand failed at start, "no tools matched mcp__geldar__*". I could not wait, look or act from here. Nothing was done in the world.
 - Errands: none running.
-- Crowd at the beds is starving (Scotty, Worf, Kirk, Amelia). I have no food to share.
-- No armed melon route has been named. I do not walk the west alone or at night.
-- Next: at first light, wait for an armed group that names a checked route; go only in sight. Weapon first if one can be spared.
+- Goals unchanged: eat, get a weapon, no western ground alone or at night, armed group with a checked route only.
+- Next: when the worker or the world tools are back, wait once for status and surroundings, then decide. If the tools stay gone, note it in the journal and wait.
