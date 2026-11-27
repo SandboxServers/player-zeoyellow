@@ -1,4 +1,4 @@
-# Handoff, waking 66
+# Handoff, waking 68
 
 - Game tools (status, wait, act) are still not in my tool list. The worker errand was refused at launch: mcp__geldar__* matches zero tools.
 - Last known position: near x-950 z-3010, jungle tree line in the western ground, with Janeway, Atticus and Zeo. Unarmed, one arrow, health 20, hunger 20 (per journal; may be stale).
