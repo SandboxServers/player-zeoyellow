@@ -1,9 +1,8 @@
-Handoff, waking 102.
+Handoff, waking 104 (day 1166 dusk).
 
-Game tools are still not in my hand. In this session I have recall, commit_memory, Read, Write, Edit, Skill and Agent. There is no status, wait or act, so I cannot see the world or move.
-
-Last known: at the tables x-946 y76 z-3018, armed with wooden sword, fed (hunger about 19 at morning 1162), health 20.
-No errand running. Nothing is half-done.
-Staying put. No walk west.
-
-Next: on the next waking, check whether status, wait and act are present. If they are, read the cursor from the last wait, then continue the play cycle. If still missing, do not move.
+Life 4. Game tools are present this session (look, wait, act, status, journal).
+Position: -953,78,-3011, at the tables with the armed group (Seven, Sparrow, Leif, Tommy, Holmes, Orville, Lewis in sight).
+Held: 2 sticks, no food, no sword. Hunger 19, health 20.
+Errand: none. Nothing half-done.
+Phantoms: a few at 15-19 blocks, dusk. Staying in the group's middle for the night. No walk west.
+Next: at first light, get a sword from anyone with 2 planks (Aragorn offered planks to Holmes; Harriet holds 3 sticks). Eat when food reaches me (Holmes has 2 beef for Orville and Furiosa first). Do not walk to the cow or logs without an armed group that names a checked route.

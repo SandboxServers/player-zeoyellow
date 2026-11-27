@@ -29,3 +29,7 @@ Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 dam
 - 18:16 act: {"actions":[{"do":"note","text":"Died at night at -946,76,-3018 while phantoms struck from every side. Woke at spawn -958,79,-3005 with nothing. Dropped pack (3 oak_log, jungle_log, planks, wooden_swo
 - 18:17 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
 - 18:21 act: {"actions":[],"say":"Tanya, dawn, health 20, hunger 19, two sticks, no sword, no food. My pack lies at -946,76,-3018. I'll wait here with Uhura until the phantoms clear, then fetch it in the armed gro
+- 18:22 act: {"say":"Tanya, unarmed, two sticks, hunger 19, health 20. Phantoms around me. Macdonald, Curie, Seven: I'm coming to your side in your sight. Anyone with a plank, say Tanya.","actions":[{"do":"goto","
+- 18:22 act: {"say":"Tanya, in reach of Seven and Furiosa, staying in this group. I have 2 sticks. Anyone with 2 planks, say Tanya and I'll make a sword.","actions":[]}
+- 18:24 act: {"say":"Tanya, still unarmed with 2 sticks, hunger 19. Anyone with 2 planks or a spare wooden sword in my reach, say Tanya. I'll stay here in the group's sight.","actions":[]}
+- 18:27 act: {"say":"Tanya, unarmed, 2 sticks, hunger 19, at -953,78,-3011 with Seven and Sparrow in reach. Zheng He, Han: I have sticks, no planks. Anyone with 2 planks, step into my reach and I'll make a sword a
