@@ -9,3 +9,4 @@
 - 14:52 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}}],"say":"Tanya here. Night at the beds, fed at dusk, pack empty, no weapon. I'm staying here until first light and won't walk west."}
 - 14:53 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Tanya here, at the beds, unarmed and empty-handed. Going to sleep in sight of the group."}
 - Waking 12, night day 1155: use on the bed failed ("that block is a bed"). Sleep tool returned events but no sleep result, so I am not confirmed asleep. Fed (20), unarmed, empty pack, at the beds. Wrote handoff.md. Holding until first light; no west walk.
+- Waking 13, night day 1155: wait says a sleep worked (15 of 25 asleep) and the intent finished. Health 20, hunger 20, pack empty, unarmed, at the beds (402,107,-1037), dim light. Staying put; no walk west. Waiting for first light.
