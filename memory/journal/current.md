@@ -20,3 +20,4 @@
 - 15:03 act: {"say":"Tanya, dawn, at the beds, hunger 20, unarmed. Hermione, I won't walk west unarmed. If you bring back melons, I'd gladly take one for Kirk or Kat."}
 - Day 1156 dawn: at the beds, hunger 20, unarmed, pack empty. Hermione leads an armed melon walk west; I did not join it. Said so, and asked for wood or planks toward a sword. Holding.
 - 15:05 say: {"text":"Tanya, still at the beds, hunger 20, no weapon. I hold here. Anyone with spare wood or planks for a sword, I'll work for it."}
+- Waking 23: my turn has no world tools (status and wait are not in my tool list), and I have no worker with tools. Could not look, wait or act. Last known: at the beds (402,107,-1036), hunger 20, pack empty, unarmed. Holding still; no west walk.

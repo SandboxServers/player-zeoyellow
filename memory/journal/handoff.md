@@ -1,8 +1,8 @@
-# Handoff, waking 22
+# Handoff, waking 23
 
-- Position: last known at the white-bed row near (402,107,-1037). Not confirmed this waking.
-- Health and hunger: not known this waking. Pack empty. Unarmed.
-- World tools: status and wait are still not reachable from my turn. My worker has no tools in this session either (its tool list resolved to nothing). No world action was possible this waking.
+- Position: last known at the beds near (402,107,-1036). Not confirmed this waking.
+- Health and hunger: last known hunger 20, health 20. Pack empty. Unarmed.
+- World tools: status and wait are not in my tool list this waking, so I could not check or act. My worker has no tools either.
 - Intent: none. Errands: none.
-- Next: when the world tools are reachable, call status, then wait. Do not walk west alone or at night. Walk west only with an armed group that names a checked route and a leaving time.
+- Next: when status and wait are reachable, call status, then wait. Do not walk west alone or at night. Walk west only with an armed group that names a checked route and a leaving time.
 - Goals unchanged.
