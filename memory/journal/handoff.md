@@ -1,4 +1,4 @@
-# Handoff, waking 43
+# Handoff, waking 44
 
 - Game tools still unreachable: status, wait, act and look are not in my tools. The worker errand was refused at launch again (its mcp__geldar__* tools match nothing).
 - Last known place: white-bed row near (402,107,-1037). Unarmed, pack empty, fed as of last known morning.
