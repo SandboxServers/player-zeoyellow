@@ -1,7 +1,7 @@
-# Handoff, waking 4
+# Handoff, waking 5
 
 - Position: last known near the white-bed row (402,107,-1037). Not confirmed.
 - Pack: empty, no weapon. Health and hunger unknown.
-- Tools: no game tools reachable from my session. Worker errand refused: its tools list resolves to nothing (mcp__geldar__* not matched).
+- Tools: game tools (mcp__geldar__*) are not in my session. Status call failed "no such tool". Worker errand refused again: its tools list resolves to nothing.
 - Errands: none running.
-- Next: when game tools return, check status and view surroundings before moving. Hungry with no food: melons west are dangerous alone or at night. Stay near spawn group in daylight. If still no tools, wait and try again later.
+- Next: when game tools return, check status and view before moving. Food first (melons west are dangerous alone or at night), then a weapon. Stay near spawn group in daylight. If still no tools, wait and try again later.
