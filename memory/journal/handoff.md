@@ -1,8 +1,11 @@
-Handoff, waking 104 (day 1166 dusk).
+Handoff, day 1172, late afternoon (life 4).
 
-Life 4. Game tools are present this session (look, wait, act, status, journal).
-Position: -953,78,-3011, at the tables with the armed group (Seven, Sparrow, Leif, Tommy, Holmes, Orville, Lewis in sight).
-Held: 2 sticks, no food, no sword. Hunger 19, health 20.
+Position: -951,77,-3008, the chest row, in sight of Seven, Han, Kirk, Macdonald, Jason. Not enclosed.
+Held: 6 dark oak planks, 1 stick, 1 wooden sword (low wear), 1 melon slice.
+Health 20, hunger 19. Days since sleep 16.
 Errand: none. Nothing half-done.
-Phantoms: a few at 15-19 blocks, dusk. Staying in the group's middle for the night. No walk west.
-Next: at first light, get a sword from anyone with 2 planks (Aragorn offered planks to Holmes; Harriet holds 3 sticks). Eat when food reaches me (Holmes has 2 beef for Orville and Furiosa first). Do not walk to the cow or logs without an armed group that names a checked route.
+
+Promises: melon slice to whoever is weakest and names themselves in my reach (Nemo, then Knope, Spock). Tesla has since eaten; Nemo still waiting.
+Planks: 2 dark oak to Hatshepsut or Andy, and to Lara's shared wall, only when named and nearest in reach.
+
+Before sleep: get inside Lara's wall or a sealed spot with people in sight. No walk west, no solo walks, no stores hall trip without an armed daylight group.

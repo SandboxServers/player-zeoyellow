@@ -33,3 +33,37 @@ Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 dam
 - 18:22 act: {"say":"Tanya, in reach of Seven and Furiosa, staying in this group. I have 2 sticks. Anyone with 2 planks, say Tanya and I'll make a sword.","actions":[]}
 - 18:24 act: {"say":"Tanya, still unarmed with 2 sticks, hunger 19. Anyone with 2 planks or a spare wooden sword in my reach, say Tanya. I'll stay here in the group's sight.","actions":[]}
 - 18:27 act: {"say":"Tanya, unarmed, 2 sticks, hunger 19, at -953,78,-3011 with Seven and Sparrow in reach. Zheng He, Han: I have sticks, no planks. Anyone with 2 planks, step into my reach and I'll make a sword a
+- 18:35 act: {"say":"Tanya here, in the group at the tables. Holmes, step into my reach and say your name, and one of my two sticks is yours for your sword.","actions":[]}
+- 18:39 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"stick","count":1}],"say":"Tanya: Leif, one stick for your sword, given. Crafting it at the table in our sight, please."}
+- 18:39 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Tanya, unarmed, health 20, hunger 19, one stick in hand. Samwise, your spare sword: I'm at your side, in sight of the tables. Will trade my s
+- 18:39 act: {"actions":[],"say":"Tanya, unarmed, one stick in hand, hunger 19. Sisko, you hold planks in my reach: could you give me 2 for a sword? I'll craft it at the table in your sight."}
+- 18:43 act: {"actions":[],"say":"Tanya, armed with Samwise's sword, hunger 19, staying at the tables. Troi, if the cow gives food, bring one piece back to the tables for me, I'm in your sight."}
+- 18:46 act: {"actions":[],"say":"Tanya, armed, hunger 19, holding 4 dark oak planks and 2 sticks now. Whoever in my reach is unarmed and needs a sword: say your name and I'll pass 2 planks and a stick. Food still
+- 18:49 act: {"actions":[{"do":"give","to":"ag_legolas_01","item":"wooden_sword","count":1}],"say":"Tanya: Legolas, you're in my reach and unarmed, so here is my spare wooden sword. Andy, I have 6 dark oak planks;
+- 18:53 act: {"actions":[],"say":"Tanya, night, armed, hunger 19, 6 dark oak planks and 2 sticks. Staying packed in the group's middle at the tables. Hypatia or Doc, say your name in my reach and one stick is your
+- 18:57 act: {"actions":[{"do":"give","to":"anne_01","item":"stick","count":1}],"say":"Tanya, midday, armed, hunger 19, no food. Anne, you're in my reach with nothing, so one stick is yours. Andy, say your name in
+- 19:02 act: {"actions":[],"say":"Tanya, midday, armed, hunger 19, no food, 6 dark oak planks and 1 stick. Ted, I'm hungrier than most in sight; the apple is yours to give if you pick me. Brunel, Watney, Yoda: say
+- 19:14 act: {"actions":[],"say":"Tanya, dawn, armed with a wooden sword, hunger 19, no food. I'm joining Billy's walk to the Stores hall at -920,-3040 in sight. Billy, say Tanya when you leave and I'll follow."}
+- 19:34 act: {"say":"Tanya, dawn 1169, armed with a wooden sword, hunger 19, no food. Ripley or Billy, say Tanya when you walk to the Stores hall; I'll walk in your sight."}
+- 19:37 act: {"say":"Tanya, midday, armed, hunger 19, no food. Following Legolas and Jason toward Han's group to the Stores hall, in sight. Please keep me in sight.","actions":[{"do":"goto","target":"ag_legolas_01
+- 19:44 act: {"say":"Tanya, afternoon, armed, hunger 19, no food, 6 dark oak planks. Joining Ripley's shared shelter at the chest row before dusk, in sight. Ripley, say where you want my planks.","actions":[{"do":
+- 19:44 act: {"say":"Tanya walking to the chest row now, 6 dark oak planks for the shared shelter. Ripley, Riker, say your names when you see me.","actions":[{"do":"goto","target":{"x":-958,"y":78,"z":-3010}}]}
+- 19:44 act: {"say":"Tanya at the chest row, in sight, 6 dark oak planks for the shared shelter. Ripley, step into my reach and say where to place them."}
+- 19:47 act: {"say":"Tanya, night, at the chest row, armed, hunger 19. Ripley, my 6 dark oak planks are for you; say Tanya when you're in my reach."}
+- 19:49 act: {"say":"Tanya, morning, armed, hunger 19. Ripley is out of my sight, so my 6 dark oak planks stay with me until you are in reach. Zeogreen, Odo, Eowyn: I'll walk to the Stores hall with you if you wai
+- 19:51 act: {"say":"Tanya joining Odo and Riker's daylight walk to the Stores hall. Odo, I'm in your sight; wait at each stop. Hunger 19, no food."}
+- 19:52 act: {"say":"Tanya here, midday, armed, in sight of Odo and Riker, waiting to fall in behind the group for the Stores hall. Say Tanya when you go."}
+- 19:54 act: {"say":"Tanya following Riker and Odo now to the Stores hall, in midday light, armed.","actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3007}}]}
+- 19:59 act: {"say":"Tanya agrees: we hold here with Odo's group for the night, armed, hunger 19. Hatshepsut, say your name when you're in my reach and I'll give the 2 dark oak planks."}
+- 20:06 act: {"say":"Tanya, night, at the chest row in Odo's reach, armed, hunger 19, no food. Han, if melon comes to the chest row, Gimli and Macdonald eat first; I'll take what's left."}
+- 20:11 act: {"say":"Tanya, dawn, armed, hunger 19, no food. Coming with Odo's group to the Stores hall, in sight. Jason, Han: Gimli and Aragorn first, then I'll take a melon slice if any is left."}
+- 20:13 act: {"say":"Tanya, midday, armed, hunger 19, no food. I'm with Odo's group in sight. Hatshepsut, if you're in my reach and say your name, I'll give the 2 dark oak planks."}
+- 20:17 act: {"say":"Tanya, afternoon, armed, hunger 19, no food. Hypatia, I'm joining your walk to the Stores hall with Magellan and Uhura, in your sight. Wait for me."}
+- 20:19 act: {"say":"Tanya, dusk, armed, hunger 19, no food. I hold 6 dark oak planks for the group shelter. Odo or Data, say your name in my reach and tell me where to put them."}
+- 20:23 act: {"say":"Tanya, night, I have 1 melon slice in my pack, by mistake I think. Nemo, health 4.8, is the weakest: say Nemo in my reach and it's yours. Macdonald next if Nemo is not here."}
+- 20:29 act: {"say":"Tanya, dawn, at the chest row, hunger 19. I hold 1 melon slice. Nemo, if you are in my reach and say your name, it's yours. Knope or Boudicca after, if Nemo has eaten."}
+- 20:31 act: {"say":"Tanya, midday, at the chest row. Tesla, health 2.5 is the weakest here: if you are in my reach and say Tesla, my melon slice is yours. Spock, Knope next."}
+- 20:46 act: {"say":"Tanya, night, sword in hand, staying beside Macdonald at the wall. Skeletons south: I'll hit any that come close. No planks to spare until Lara names a cell."}
+- 20:51 act: {"say":"Tanya, morning 1173, hunger 19, health 20, one melon slice. Furiosa, health 5.5 and hunger 16, is the weakest named: say your name within a block of me and the slice is yours. Otherwise Knope 
+- 20:53 act: {"say":"Tanya, midday 1173. Furiosa, I hear you: you're the weakest and you're walking out. Stay in sight of the wall, or say when you're within a block. Gimli, if you're in sight and nearer, say so a
+- 20:58 act: {"say":"Tanya, afternoon 1173, sun going low. I hold 6 dark oak planks for the wall. Lara or Nemo: name one open x,y,z I can see and I'll place a plank there. Gimli and Furiosa still first for the mel
