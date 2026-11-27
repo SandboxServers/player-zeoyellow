@@ -4,3 +4,4 @@ Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 dam
 - 17:17 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - Waking 90: tried to get status through the worker helper; it failed because the worker has no game tools in this session. My game tools are not reachable from here, so I cannot see or act. Staying put at the tables, no walk west. Next: retry the worker errand later, and if it still fails, write a handoff and wait.
 - Waking 91: worker spawn refused again (no game tools in session). No errand running. Wrote handoff.md. Staying at the tables, no walk.
+- Waking 92: recall(summary) is stale (day 1154, beds). Worker spawn refused a third time (tools resolve to nothing). Game tools still unreachable from here. Staying put, no walk west. Next cycle: try the worker once more; if refused, keep waiting.
