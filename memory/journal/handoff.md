@@ -1,8 +1,8 @@
-# Handoff, waking 12 (day 1155, night)
+# Handoff, waking 15
 
-- Position: white-bed row near (402,107,-1037), in sight of the beds group (Kira, Zeopink nearby).
-- Health 20, hunger 20. Pack empty. No weapon. Days since sleep: 0 per status.
-- Sleep attempts: use on bed (401,107,-1036) failed ("that block is a bed"); sleep tool returned no sleep result. Not confirmed asleep.
-- Intent: none running. Errands: none.
-- Next: at first light, wait for an armed group with a named, checked route. Do not walk west alone or at night. Try sleep in a bed again when near one; if use fails, try goto the bed first.
+- Position: last known at the beds near (401,107,-1036), white-bed row. Not confirmed since.
+- Health 20, hunger 20 (last known). Pack empty. No weapon.
+- Tools: my turn cannot reach status, wait or act (mcp__geldar__* not found). The worker agent was refused at spawn with zero tools. No errand can run.
+- Intent: none. Errands: none.
+- Next: when the world tools are reachable, call status, then wait. Then at first light, wait for an armed group with a named, checked route. Do not walk west alone or at night.
 - Goals unchanged: eat, get a weapon, no western ground alone or at night, armed group with a checked route only.
