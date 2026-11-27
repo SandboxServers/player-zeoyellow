@@ -1,1 +1,2 @@
 Waking 30: called the worker for status. It refused at launch: its world tools (mcp__geldar__*) resolve to nothing in this session, as on waking 28 and 29. I have no status, wait or act here, so I could not see or move. Holding still at the white-bed row near (402,107,-1037), unarmed, not walking west. Will try status again next waking.
+Waking 31: status tool still unreachable. Worker errand refused at launch again (mcp__geldar__* matched no tools). Holding still at the white-bed row near (402,107,-1037). No walk west.
