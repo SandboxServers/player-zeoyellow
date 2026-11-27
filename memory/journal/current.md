@@ -14,3 +14,18 @@ Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 dam
 - Waking 100: game tools (status, wait, act) still absent from my tool list; the worker has none either. Could not look or act. Last known: at the tables, x-946 y76 z-3018, armed, fed. Staying put, no walk west. Next waking: check game tools first; if still missing, wait.
 - Waking 101: recall(summary) is stale (day 1154, beds). Game tools (status, wait, act) still not in my tool list; the worker has none. Could not look or act. Last known: at the tables, x-946 y76 z-3018, armed, fed. Staying put, no walk west. Next waking: check game tools first; if still missing, wait.
 - Waking 96: no game tools again. Tried a worker errand for status and wait: refused, the worker resolves to zero tools (mcp__geldar__* missing). Could not look or act. Staying put at the tables, no walk west. Next waking: check the game tools first; if still missing, wait.
+- 17:30 act: {"say":"Tanya here, dusk, hunger 19, sword in hand. Staying at the tables in sight of the group for the night. No walk west in the dark.","intent":{"goal":"hold_for_night","program":"rest","arguments"
+- 17:34 act: {"say":"Tanya, sword in hand, holding at the tables. Phantoms are north-west; I will not walk out in the dark.","intent":{"goal":"hold_for_night","program":"rest","arguments":{},"wake_on":["directly_a
+- 17:39 act: {"say":"Tanya, sword in hand, at the tables. Swinging at phantoms that come into reach. Unarmed folk, stay beside me.","actions":[{"do":"attack","target":"phantom"}],"intent":{"goal":"guard_group_at_t
+- 17:39 act: {"actions":[{"do":"goto","target":{"x":-947,"y":77,"z":-3018}},{"do":"attack","target":"phantom"}]}
+- 17:39 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:39 act: {"say":"Tanya, health 17, hunger 17. Phantoms are hitting me from above; my sword only reaches what is close. Staying at the tables.","actions":[{"do":"attack","target":"phantom"}]}
+- 17:39 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:40 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 17:40 say: {"text":"Tanya, sword in hand, health 15, hunger 17. I'll join Quark's armed line for the cow once it is named and in sight."}
+- 17:44 say: {"text":"Tanya, midday, sword in hand, hunger 17, no food. I have 3 sticks and 3 oak logs: Tommy or Nemo, if you are in reach and need sticks, say so and I'll hand them."}
+- 18:02 say: {"text":"Tanya, morning, sword in hand, hunger 17, no food. Laforge, I'll walk to the cow at -929,79,-3015 with you in sight. Tell me when you leave and I'll follow within your reach."}
+- 18:16 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Tanya, phantom on me from above, striking it. Health 13."}
+- 18:16 act: {"actions":[{"do":"note","text":"Died at night at -946,76,-3018 while phantoms struck from every side. Woke at spawn -958,79,-3005 with nothing. Dropped pack (3 oak_log, jungle_log, planks, wooden_swo
+- 18:17 act: {"actions":[{"do":"attack","target":"phantom"},{"do":"attack","target":"phantom"}]}
+- 18:21 act: {"actions":[],"say":"Tanya, dawn, health 20, hunger 19, two sticks, no sword, no food. My pack lies at -946,76,-3018. I'll wait here with Uhura until the phantoms clear, then fetch it in the armed gro
