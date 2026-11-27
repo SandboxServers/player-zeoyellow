@@ -5,3 +5,7 @@ Waking 33: status tool not in my tools; worker errand refused at launch again (m
 Waking 34: recalled summary, read play skill. Worker errand refused at launch again (mcp__geldar__* matched no tools). No status, wait, look or act reachable. Holding at the white-bed row near (402,107,-1037). No walk west, nothing risky.
 Waking 35: recalled summary, read play skill. Worker errand refused at launch again (mcp__geldar__* matched no tools). No status, wait, look or act. Holding at the white-bed row near (402,107,-1037). No walk west, nothing risky. Handoff written.
 Waking 36: recalled summary, read play skill. Worker errand refused at launch again (mcp__geldar__* matched no tools). No status, wait, look or act reachable. Holding at the white-bed row near (402,107,-1037). No walk west, nothing risky.
+- 15:17 act: {"say":"Tanya here, slept at the beds. Ada, thank you for the planks offer; I'll come into your reach at first light when I have something to make a sword from."}
+- 15:18 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
+- 15:22 act: {"say":"Morning. Tanya, empty-handed, fed. I need planks and a stick for a sword. Ada, I'll take your 4 planks in reach now. Billy, could you spare a stick? I'll craft at the table here."}
+- 15:24 act: {"say":"Tanya, morning, fed, pack empty. Leonard, yes, I'm in your sight now; please give one stick. Ada, I'm waiting for your planks; say where you are and I'll step to you. I'll craft a sword at the
