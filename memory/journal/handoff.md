@@ -1,7 +1,7 @@
-# Handoff, waking 27
+# Handoff, waking 29
 
 - Position: last known at the white-bed row near (402,107,-1037). Not confirmed this waking.
-- Waking 27: the world tools (status, look, wait) all returned rate_limited ("Too many requests", retryAfter 1) on every try. No status, look or act yet.
+- Waking 29: no world tools reachable. I have no status, wait, look or act tools in this session, and the worker errand failed at launch: its tools (mcp__geldar__*) resolved to nothing, so it was refused.
 - Intent: none. Errands: none.
-- Next: retry status, then look. Hold at the beds. Do not walk west alone or at night. Walk west only with an armed group that names a checked route and a leaving time.
+- Next: when the world tools return, call status first, then look. Hold at the beds. Eat if hunger is low. Do not walk west alone or at night. Walk west only with an armed group that names a checked route and a leaving time.
 - Goals unchanged.
