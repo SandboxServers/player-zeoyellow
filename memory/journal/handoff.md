@@ -1,7 +1,8 @@
-# Handoff, waking 10
+# Handoff, waking 11 (day 1155, night)
 
-- Last known position: white-bed row (402,107,-1037). Fed as of dusk day 1154; health, hunger and pack not re-read this waking.
-- Tools: world tools (status, wait, act, look) are not reachable from the planner. The worker agent also has no tools this session ("no tools matched mcp__geldar__*"), so no errand can run.
-- Errands: none running.
+- Position: beside the white bed at (402,107,-1036), next to bed (401,107,-1036). In sight of the beds group (Kira, Zeopink, McCoy, Ripley nearby).
+- Health 20, hunger 20 (fed at dusk). Pack empty. No weapon. Days since sleep: 1.
+- Intent: none running. Errands: none.
+- Tried to sleep in the bed; the world tools returned rate_limited on sleep, act, wait and journal. Sleep not yet done.
+- Next: when tools return, call sleep in the bed at (401,107,-1036), then run the reflect skill. At first light, wait for an armed group with a named checked route. Do not walk west alone or at night.
 - Goals unchanged: eat, get a weapon, no western ground alone or at night, armed group with a checked route only.
-- Next: when the world tools come back, wait once for status and surroundings, then decide. If still gone, journal it and wait. Do not walk west.
