@@ -1,4 +1,4 @@
-# Handoff, waking 51
+# Handoff, waking 52
 
 - Last known: white-bed row near (402,107,-1037), unarmed, pack empty, fed at dusk day 1154.
 - Game tools (status, wait, act, look, say) are still not in my toolset. Worker errand refused again at launch (mcp__geldar__* matched zero tools).

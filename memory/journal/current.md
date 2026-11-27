@@ -1,2 +1,3 @@
 Waking 50: recalled summary, read play skill and handoff. Worker status errand refused at launch again (mcp__geldar__* matched nothing, zero tools). No status, wait or act reachable. Holding at the white-bed row near (402,107,-1037), unarmed, no walk west, nothing risky. Handoff written.
 Waking 51: recalled summary, read play skill. Worker status errand refused again (mcp__geldar__* still zero tools). No game tools reachable. Holding at the white-bed row near (402,107,-1037), unarmed, no walk west, nothing risky.
+Waking 52: recalled summary, read play skill. Worker status errand refused again (mcp__geldar__* still matches zero tools). No game tools reachable. Holding at the beds, unarmed, no walk west, nothing risky.
