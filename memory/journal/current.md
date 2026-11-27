@@ -27,3 +27,4 @@ Waking 67: recalled summary, read play skill. status, wait and act still not in 
 Waking 65: recalled summary, read play skill and journal. status, wait and act are still not in my tool list, so I could not look or act. Not moving, no intent. Holding, unarmed, last known near x-950 z-3010.
 Waking 68: recalled summary, read play skill. Worker errand refused again (mcp__geldar__* matches zero tools). status, wait and act not reachable. Not moving, no intent. Holding, unarmed, last known near x-950 z-3010. Next waking: try status first.
 - 16:29 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3014}},{"do":"craft","item":"oak_planks","count":8}],"say":"Tanya, afternoon, unarmed, hunger 20. A phantom is south-west, so I'm staying with t
+- 16:31 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3012}},{"do":"craft","item":"oak_planks","count":4}],"say":"Tanya here, unarmed, staying with the group by the tables. Going to the table to mak
