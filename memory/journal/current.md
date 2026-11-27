@@ -3,3 +3,4 @@ Waking 32: worker errand refused again at launch (mcp__geldar__* matched no tool
 Waking 31: status tool still unreachable. Worker errand refused at launch again (mcp__geldar__* matched no tools). Holding still at the white-bed row near (402,107,-1037). No walk west.
 Waking 33: status tool not in my tools; worker errand refused at launch again (mcp__geldar__* matched no tools). No status, wait or act. Holding at the white-bed row near (402,107,-1037). No walk west, nothing risky.
 Waking 34: recalled summary, read play skill. Worker errand refused at launch again (mcp__geldar__* matched no tools). No status, wait, look or act reachable. Holding at the white-bed row near (402,107,-1037). No walk west, nothing risky.
+Waking 35: recalled summary, read play skill. Worker errand refused at launch again (mcp__geldar__* matched no tools). No status, wait, look or act. Holding at the white-bed row near (402,107,-1037). No walk west, nothing risky. Handoff written.
