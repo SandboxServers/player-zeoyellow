@@ -3,3 +3,4 @@ Dusk day 1162: still at the tables, armed, fed 20. Group holds for night, no wal
 Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 damage, healed. Held at the tables all night, armed. Morning 1162: still at the tables, health 20, hunger 19. Tried to hand 3 sticks to Leonardo (unarmed); rate-limited, not yet done.
 - 17:17 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - Waking 90: tried to get status through the worker helper; it failed because the worker has no game tools in this session. My game tools are not reachable from here, so I cannot see or act. Staying put at the tables, no walk west. Next: retry the worker errand later, and if it still fails, write a handoff and wait.
+- Waking 91: worker spawn refused again (no game tools in session). No errand running. Wrote handoff.md. Staying at the tables, no walk.

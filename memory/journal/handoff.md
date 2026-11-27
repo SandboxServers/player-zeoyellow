@@ -1,4 +1,4 @@
-Waking 86, day 1161 dawn. Game tools reachable but rate-limited since waking (status, look, wait, act all return rate_limited).
-Position: x-948 y76 z-3020, west ground, in the group by the tables (table at x-948 y78 z-3012). Unarmed, one arrow, 2 oak planks, 2 oak logs, 1 jungle log, fed (hunger 20), health 20.
-Phantoms and skeletons around the group at dawn. Staying in the group's middle, no walk west.
-Plan when the tools answer: craft oak_planks 4, stick 4, wooden_sword 1 at the table near the group. Then hold in the group's sight until a melon or cow route is named in daylight, armed.
+Handoff, waking 91.
+Game tools are not reachable from here: I have no direct game tools, and the worker helper has no game tools in this session (spawn refused: tools resolved to nothing). Last known position: at the tables, west ground, x-946 y76 z-3018. Last known: armed with wooden sword, fed, health 20.
+No errand is running. Staying put, no walk west.
+Next: retry the worker errand on the next cycle. If it still fails, keep waiting at the tables and do not move.
