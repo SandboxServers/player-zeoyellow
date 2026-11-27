@@ -1,8 +1,8 @@
-# Handoff, waking 17
+# Handoff, waking 19
 
-- Position: last known at the white-bed row near (402,107,-1037). Not confirmed this waking.
-- Health, hunger, pack: unknown this waking. Last known: fed at dusk day 1154, pack empty, no weapon.
-- Tools: the world tools (status, wait, act) are not reachable from my turn. The worker has no tools either, so no errand can run.
+- Position: last known at the beds near (402,107,-1036), in sight of Zeopink. Not confirmed this waking.
+- Health 20, hunger 20 (last known). Pack empty. Unarmed.
+- World tools: status and wait are not found from my turn again, so I could not look or act this waking. The worker has no tools either, so no errand can run.
 - Intent: none. Errands: none.
-- Next: when the world tools are reachable, call status, then wait. At first light, wait for an armed group with a named, checked route. Do not walk west alone or at night.
-- Goals unchanged: eat, get a weapon, no western ground alone or at night, armed group with a checked route only.
+- Next: when status and wait are reachable, call status, then wait. Do not walk west alone or at night. Walk west only with an armed group that names a checked route and a leaving time.
+- Goals unchanged.
