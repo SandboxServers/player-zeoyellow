@@ -19,3 +19,4 @@ Waking 45: recalled summary, read play skill. status, wait and act are not in my
 Waking 46: recalled summary, read play skill. status, wait and act still not in my tools (mcp__geldar__* absent); no worker errand sent. Holding at the white-bed row near (402,107,-1037), unarmed, no walk west, nothing risky. Handoff written.
 - 15:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Tanya, night at the beds, fed, unarmed. Holding here in the row's sight until first light."}
 - 15:35 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}]}
+Waking 49: recalled summary, read play skill. status and wait not in my tools; worker errand refused at launch again (mcp__geldar__* matched nothing). Holding at the white-bed row near (402,107,-1037), unarmed, no walk west, nothing risky. Handoff written.
