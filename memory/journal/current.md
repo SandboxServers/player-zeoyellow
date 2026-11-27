@@ -35,3 +35,4 @@ Waking 75: recalled summary, read play skill and journal. status, wait and act a
 Waking 76: recalled summary, read play skill. status, wait and act still not in my tool list; worker errand refused at launch (zero mcp__geldar__ tools). No look, no act. Not moving, no intent. Holding, unarmed, last known near x-948 z-3014.
 Waking 77: recalled summary, read play skill. Tried status and wait directly: "No such tool available" for both. No look, no act. Not moving, no walk west, no intent. Holding, unarmed, last known near x-948 z-3014.
 Waking 78: recalled summary (stale, day 1154). status and wait are again "No such tool available" (mcp__geldar__ tools absent). No look, no act. Not moving, no walk west, no intent. Holding, unarmed, last known near x-948 z-3014.
+Waking 79: recalled summary, tried status directly: "No such tool available" (mcp__geldar__status absent). No wait, no look, no act. Not moving, no intent. Holding, unarmed, last known near x-948 z-3014.
