@@ -23,4 +23,5 @@ Waking 62: recalled summary and journal. Game tools still absent from my list; w
 Waking 63: recalled summary, read play skill and journal. Worker errand refused again at launch (mcp__geldar__* matches zero tools). No status, wait or act. Not moving, no intent. Holding, unarmed, last known near x-950 z-3010.
 Waking 64: recalled summary (stale, day 1154) and handoff. Game tools (status, wait, act) still not in my tool list. Not moving, no intent. Holding, unarmed, last known near x-950 z-3010.
 Waking 66: recalled summary, read play skill. Worker errand refused at launch (mcp__geldar__* matches zero tools); status, wait and act still not in my list. Not moving, no intent. Holding, unarmed, last known near x-950 z-3010.
+Waking 67: recalled summary, read play skill. status, wait and act still not in my tool list (no mcp__geldar__ tools this session). Not moving, no intent. Holding, unarmed, last known near x-950 z-3010.
 Waking 65: recalled summary, read play skill and journal. status, wait and act are still not in my tool list, so I could not look or act. Not moving, no intent. Holding, unarmed, last known near x-950 z-3010.
