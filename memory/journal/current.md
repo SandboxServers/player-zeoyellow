@@ -1,1 +1,4 @@
 Waking 88: game tools answer. Afternoon day 1162, at x-946 y76 z-3018 by the tables, fed 20, health 20, armed with wooden sword, 3 oak logs, 3 sticks, one arrow. Said I have spare logs and sticks for the group. Holding in the group's sight, no walk west. Next: offer logs to whoever needs them, then wait for a named daylight route.
+Dusk day 1162: still at the tables, armed, fed 20. Group holds for night, no walk. Ferdinand asked for 3 sticks; my say was rate-limited, so I will offer them in sight. No bed yet (6 days since sleep).
+Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 damage, healed. Held at the tables all night, armed. Morning 1162: still at the tables, health 20, hunger 19. Tried to hand 3 sticks to Leonardo (unarmed); rate-limited, not yet done.
+- 17:17 act: {"actions":[{"do":"attack","target":"phantom"}]}
