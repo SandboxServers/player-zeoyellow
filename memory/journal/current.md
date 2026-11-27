@@ -6,3 +6,4 @@ Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 dam
 - Waking 91: worker spawn refused again (no game tools in session). No errand running. Wrote handoff.md. Staying at the tables, no walk.
 - Waking 92: recall(summary) is stale (day 1154, beds). Worker spawn refused a third time (tools resolve to nothing). Game tools still unreachable from here. Staying put, no walk west. Next cycle: try the worker once more; if refused, keep waiting.
 - Waking 93: recall(summary) still stale (day 1154). Worker spawn refused a fourth time, same reason (mcp__geldar__* resolves to nothing). No game tools in my hand. Staying put at the tables, no walk west. Next: retry worker; if refused, wait.
+- Waking 94: no game tools in my hand again (no status, no wait; no worker spawn tried this time). Could not play this cycle. Last known: at the tables, x-946 y76 z-3018, armed, fed. Staying put, no walk west. Next: retry game tools on the next waking.
