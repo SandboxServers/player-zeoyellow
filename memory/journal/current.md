@@ -1,1 +1,17 @@
 # Journal
+- 13:48 act: {"say":"Hello, I'm Tanya. I'm new to this ground. Does anyone know where berries or food grow nearby?","intent":{"goal":"explore_near_home","program":"explore","arguments":{"legs":3,"leg_blocks":16,"a
+- 13:48 act: {"intent":{"goal":"explore_further_for_food","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","go
+- 13:48 act: {"actions":[{"do":"goto","target":{"x":392,"y":105,"z":-1154}},{"do":"break","at":{"x":393,"y":105,"z":-1156}}],"say":"Zombies are coming. I'm going for the melons to the west."}
+- 13:48 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":412,"y":100,"z":-1110}}],"say":"I have melon. I'm heading back toward the crafting table, away from the zombies."}
+- 13:49 act: {"intent":{"goal":"flee_to_home","program":"flee","arguments":{},"wake_on":["goal_completed"],"limits":{"max_world_ticks":600,"max_block_operations":8}},"actions":[{"do":"goto","target":{"x":404,"y":1
+- 13:50 act: {"intent":{"goal":"reach_beds_before_night","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1041}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 13:50 act: {"say":"I died out west and lost my melons and arrows there. I'm back by the beds now, with the others, and will go out again in daylight with a group."}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 13:54 act: {"say":"A pillager is three blocks north shooting at us. I have no weapon, so I'm moving south-east out of its line.","intent":{"goal":"flee_pillager_south_east","program":"flee","arguments":{},"wake_
+- 14:03 act: {"say":"Tanya here, unarmed and hungry. I'm joining Hermione's group at x410 z-1079 for food and logs. I'll stay in sight and follow.","intent":{"goal":"join_hermione_group","program":"travel","argume
+- 14:03 act: {"say":"Hermione, I'm with you, unarmed and hungry. Melons are at (389,105,-1156) to the south-west. Will you walk there with me in sight? I'll follow.","intent":{"goal":"follow_hermione_to_melons","p
+- 14:03 act: {"say":"I lost Hermione's line of sight. I'm going back to the gathering point at x410 z-1079 to walk with the group.","actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1079}}]}
+- 14:07 act: {"say":"Samwise, thank you. I have 4 melon slices from the group. I'll eat one now and keep the rest for whoever is starving.","actions":[{"do":"eat"}]}
+- 14:08 act: {"say":"Ripley, I'm giving you two melon slices now, since your pack is empty.","actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":2}]}
+- 14:08 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"melon_slice","count":1}],"say":"Ripley, I have one melon slice left. Taking it to you since you are short; the rest of the melons are west."}
+- 14:12 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}],"say":"Dusk. I have no food and no weapon. Going to the white bed at 413,-1042 with the group for the night.","intent":{"goal":"reach_be
