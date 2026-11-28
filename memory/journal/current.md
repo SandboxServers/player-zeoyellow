@@ -71,3 +71,11 @@
 - 18:31 say: {"text":"Johnny, Tanya here, midday 1238, hunger 18. Riker is still within 2 blocks of me, so I cannot take the carrot yet. If you come alone within 2 blocks and say so, I will take it."}
 - 18:44 act: {"say":"Tanya here, at the Stores with Riker and MacDonald in the midday sun. I hold 2 bread, saved for when I am hungry, and no planks. I will stay in sight and walk nowhere alone.","intent":{"goal":
 - 18:52 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Dusk 1239, Tanya at the chests with Worf, Picard, Troi and Zeoblue in sight. Sword in hand. Hunger 18, 2 bread held. I stay still."}
+- 19:34 say: {"text":"Tanya here at the Stores chests, holding for the night with the group. Sword in hand, hunger 18, two bread kept."}
+- 19:34 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
+- 19:36 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie to my east, hitting me. I am fighting it with my sword, staying by the chests."}
+- 19:36 act: {"actions":[{"do":"use","item":"wooden_sword"},{"do":"attack","target":"zombie"}]}
+- 19:36 act: {"actions":[{"do":"eat"}]}
+- 19:36 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3037}}],"say":"Zombies hit me in the dark, health 8.5. I am heading back to the Stores chests to the group now, sword in hand."}
+- 19:40 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Tanya, morning 1241 at the Stores chests, health 12, hunger 17. Sword in hand, 1 bread held for hunger 6. I hold no planks. I stay in Macdonald's
+- 19:48 act: {"actions":[],"say":"Riker, Tanya here at dusk 1242. I hold one bread, kept for when my hunger reaches 6, which is not yet. I am sorry. I stay here in your sight with my sword in hand."}
