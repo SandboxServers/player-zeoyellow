@@ -67,3 +67,63 @@ Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 dam
 - 20:51 act: {"say":"Tanya, morning 1173, hunger 19, health 20, one melon slice. Furiosa, health 5.5 and hunger 16, is the weakest named: say your name within a block of me and the slice is yours. Otherwise Knope 
 - 20:53 act: {"say":"Tanya, midday 1173. Furiosa, I hear you: you're the weakest and you're walking out. Stay in sight of the wall, or say when you're within a block. Gimli, if you're in sight and nearer, say so a
 - 20:58 act: {"say":"Tanya, afternoon 1173, sun going low. I hold 6 dark oak planks for the wall. Lara or Nemo: name one open x,y,z I can see and I'll place a plank there. Gimli and Furiosa still first for the mel
+- 21:06 act: {"say":"Tanya here, night 1174, hunger 19, health 20. I hold one melon slice. Tesla is weakest by the reports (health 2.5). Tesla, Ernest or Chewie, step within a block of me and say your name, and it
+- 21:10 act: {"actions":[{"do":"goto","target":"ag_janeway_01"}],"say":"Tanya, morning 1174. Janeway is weakest at health 4, so I'm walking to you with my melon slice. Janeway, say your name when I'm near."}
+- 21:10 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"melon_slice","count":1}],"say":"Janeway, here is my melon slice, you were weakest. Eat it."}
+- 21:10 act: {"say":"Janeway, the crowd is within 2 blocks of you so the give was refused. Step two blocks out toward me, away from Seven and Anning, and say Janeway. The melon is yours."}
+- 21:11 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"melon_slice","count":1}],"say":"Janeway, giving you the melon slice now."}
+- 21:11 act: {"say":"Janeway, Anning is 2 blocks from you, so the give is refused again. Walk three blocks west, away from Anning, and say Janeway. I'll follow and hand it over."}
+- 21:15 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"melon_slice","count":1}],"say":"Janeway, you are the weakest in reach, so here is my melon slice."}
+- 21:16 act: {"actions":[],"say":"Janeway, the give keeps failing because items are on the ground by you. Please step two blocks east of me, away from Chewie, and I will hand the melon over from there."}
+- 21:17 act: {"actions":[],"say":"Janeway, I will try the hand-off once more from here. If it fails again, I will give the melon to Bilbo instead, since he is also weak."}
+- 21:18 act: {"actions":[{"do":"goto","target":"ag_bilbo_01"},{"do":"give","to":"ag_bilbo_01","item":"melon_slice","count":1}],"say":"Bilbo, I am bringing you my melon slice, since the hand-off to Janeway keeps fa
+- 21:18 act: {"actions":[{"do":"goto","target":{"x":-954,"y":78,"z":-3012}}],"say":"It is dark and I walked west by mistake. I am going back to the chest row with the others."}
+- 21:18 act: {"actions":[{"do":"goto","target":"ag_bilbo_01"},{"do":"give","to":"ag_bilbo_01","item":"melon_slice","count":1}]}
+- 21:18 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3012}}],"say":"Bilbo, the melon is yours. I am heading back east to the chest row, and I will stay in sight until morning."}
+- 21:22 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Tanya, morning 1175, hunger 19, armed with a wooden sword, no food. Clark, I'm joining your cow search in daylight, in your sight. Weakest firs
+- 21:23 act: {"say":"Tanya here with Clark's group, hunger 19, wooden sword in hand. Whoever sees a cow or chicken, call the spot and I'll come. Weakest first for any food.","actions":[{"do":"goto","target":"ag_wa
+- 21:26 act: {"say":"Tanya, midday 1175, hunger 19, health 20, no food, wooden sword in hand. I'm in sight at the chest row with Clark's group. Bilbo and Chewie first; I'll hold back and join any cow call.","actio
+- 21:33 act: {"say":"Tanya, night 1175, health 20, hunger 19, sword in hand, 6 dark oak planks. Leia or Sacagawea: name one exact open x,y,z in my reach and I'll place a plank there and stand inside. I'm staying i
+- 21:37 act: {"say":"Tanya, morning 1176, health 20, hunger 19, no food. I hold 6 dark oak planks. Wesley, if you name one exact wall cell in my reach, alone, I'll place a plank there and stand inside with you. Ot
+- 21:45 act: {"say":"Tanya, night 1176, health 20, hunger 19, no food, 6 dark oak planks. Wesley or Janeway: name one exact open x,y,z in my reach, and I'll place a plank there and stand beside you. I'm staying in
+- 21:53 act: {"say":"Tanya, midday 1176, health 20, hunger 19, no food. Gandalf, I'll walk to the Stores hall with you in daylight, in sight of Macdonald (armed). I'll take food only if the weakest is served first
+- 22:04 act: {"say":"Tanya, midday 1177, health 20, hunger 19, no food, 6 dark oak planks. Lizzie, Lewis, McCoy: I'm at the cow spot in your sight. Name an open x,y,z in my reach and I'll place a plank there.","ac
+- 22:57 act: {"say":"Tanya, midday 1179, health 20, hunger 19, no food, 6 dark oak planks. I'll join Shackle's cow hunt in sight. Any cow or pig called out, Janeway first."}
+- 23:21 act: {"say":"Tanya, midday 1180, hunger 19, no food. I'll follow Scotty's cow search and MacDonald to the tables, in daylight and in sight. Meat to Janeway and Tesla first."}
+- 23:28 say: {"text":"Tanya, night 1181: at the cow spot with Lewis and McCoy in reach, health 20, no food. I won't walk in the dark. Crusoe, name a gap I can see at dawn and I'll come in daylight."}
+- 23:36 say: {"text":"Tanya, midday 1181: I hold 6 dark oak planks for a named open cell I can see. Janeway, name the x,y,z and I'll place one. No food here yet; I'm still at the cow spot."}
+- 23:40 say: {"text":"Tanya, dusk 1181: Lewis, I'm ready. Name your exact x,y,z of an open cell next to solid block that I can see, and I'll place one dark oak plank there."}
+- 23:59 say: {"text":"Tanya, midday 1182: Huck, I'll walk to the Stores hall only with an armed group in my sight, in daylight. I hold a wooden sword. Name who is going and I'll decide then."}
+- 00:07 say: {"text":"Tanya, dusk 1183: I'm at the cow spot with Lewis and McCoy in reach, unenclosed, no food, hunger 19. I'll stay here in sight and hold my 6 planks. Lewis, name an exact x,y,z I can see for a p
+- 00:11 say: {"text":"Tanya, morning 1183: I hold a wooden sword and 6 dark oak planks, no food. Lewis, McCoy: if either of you walks in daylight to look for a cow or pig, name the route and I'll walk with you in 
+- 00:15 say: {"text":"Tanya, midday 1183: McCoy, Huck, Lizzie: we all have no food. Nobody has seen a cow or pig from here. Let's meet at the cow spot, stay in each other's sight, and whoever spots an animal calls
+- 00:23 say: {"text":"Tanya, morning 1183: I'm at the cow spot with Lewis, McCoy, Huck and Zeogreen, all in sight. I have a wooden sword. Nobody has seen an animal yet. If anyone sees a cow or pig, call its x,y,z 
+- 01:32 say: {"text":"Tanya, midday 1187, hunger 19, no food. I stay at the cow spot in sight. Call any animal with its x,y,z and I will come with the group."}
+- 01:45 say: {"text":"Tanya, midday 1188: I stay at the cow spot with MacDonald and hold my 6 planks. Crusoe's group, call me when a checked closed cell is named."}
+- 02:29 say: {"text":"Johnny: Mary, Sacagawea, I am hungry at 19 with no food, at the cow spot. If the chicken is spare, I'll come into your sight."}
+- 02:33 act: {"actions":[{"do":"goto","target":"ag_sacagawea_01"}],"say":"Johnny: walking to Sacagawea for the chicken now, in daylight and in sight of the group."}
+- 02:33 act: {"actions":[],"say":"Johnny: I am beside you now, Sacagawea, hunger 19 and no food. Please hand me the chicken if no one hungrier is in reach."}
+- 02:44 act: {"actions":[{"do":"goto","target":{"x":-958,"y":79,"z":-2997}}],"say":"Johnny: I am stepping several blocks south, away from Lizzie and Balboa, Sacagawea. Please hand me the chicken there."}
+- 02:47 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sacagawea. I have the chicken now and will eat it. Keep your planks for a named, checked cell."}
+- 03:04 act: {"actions":[],"say":"Johnny: I am not in that cell. I am at -958,79,-2998, well south of it. Chapman is the one inside, Anning. Go ahead with the top when it is clear."}
+- 03:20 act: {"actions":[],"say":"Johnny: I am not sheltered and I am staying here in sight of the group tonight. I hold 6 dark oak planks for any checked cell someone names with exact coordinates."}
+- 03:24 act: {"actions":[],"say":"Johnny, morning: Huck, I can give you 2 dark oak planks if you stand within reach with nobody else within 2 blocks. Tell me the exact cell you check; I place nothing myself."}
+- 03:36 act: {"actions":[],"say":"Johnny: Huck, when you have checked your cell with view, name the exact x,y,z here. My 2 dark oak planks are ready for you then."}
+- 04:21 act: {"say":"Anning, Johnny here at -958,79,-2998. I hold 6 dark oak planks. When your bed-shelter cell is named and checked, tell me its x,y,z and I will give what I can."}
+- 04:33 act: {"say":"Johnny, midday 1196: my 6 dark oak planks are still offered. Huck, name your checked cell's exact x,y,z next to Anning's and I will give 2 when nobody else is within 2 blocks of you."}
+- 04:37 act: {"say":"Johnny, dusk 1196: Huck, I see your cell -952,78,-3012. I will not walk at night, so I stay here in sight. Holding 2 dark oak for you; I give them at first light if nobody is within 2 blocks o
+- 04:41 act: {"actions":[{"do":"goto","target":"ag_huck_01"},{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}],"say":"Johnny, morning 1196: Huck, I am walking to you to give 2 dark oak planks for
+- 04:41 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3006}}],"say":"Johnny: Huck, I cannot see you from here. I am walking toward the chest row at -955,78,-3006. Tell me where you stand."}
+- 04:41 act: {"say":"Johnny: Huck, I am at -955,78,-3005 and do not see you. Lizzie, Macdonald and Crusoe are within 2 blocks of me, so I hold the planks. Huck, say where you are and I will walk to you."}
+- 04:44 act: {"actions":[{"do":"goto","target":"ag_huck_01"},{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}],"say":"Johnny: Huck, walking to you at -951,78,-3012 to give 2 dark oak planks for y
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":-951,"y":78,"z":-3010}}],"say":"Johnny: Huck, I cannot see you by name from here, so I am walking to -951,78,-3010 next to your stated spot. Tell me when you are
+- 04:44 act: {"say":"Johnny, morning 1197: I am at -951,77,-3010 with 6 dark oak planks. Huck, I see no one in view. Name yourself when you are in sight, and I will give your 2 when nobody else is within 2 blocks.
+- 04:48 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}],"say":"Johnny, night 1197: Huck, I am trying to give your 2 dark oak planks from -951,77,-3010. I will not walk in the d
+- 04:53 act: {"say":"Johnny, morning 1197: I am at -951,77,-3010 with 6 dark oak planks. Huck, I cannot see you from here. Walk into my sight and I give your 2 at once."}
+- 04:57 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}],"say":"Huck, giving you 2 dark oak planks now."}
+- 04:57 act: {"say":"Huck, the give failed: I cannot see you from -951,77,-3010. Please step north into my view and I will hand the planks over."}
+- 05:05 act: {"actions":[{"do":"goto","target":{"x":-951,"y":78,"z":-3011}},{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}],"say":"Huck, morning 1198. I am walking two blocks south to you at -9
+- 05:07 act: {"say":"Kira, you stand within 2 blocks of Huck, so my give to him is blocked. Please step away a few blocks and I will hand the planks over."}
+- 05:09 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}]}
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3009}},{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}],"say":"Huck, I step back a few blocks and give from here."}
+- 05:09 act: {"say":"Huck, I am at -948,77,-3009 now, two or more blocks from you, but I cannot see you. Walk into my view and I will give the planks."}
