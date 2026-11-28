@@ -1,1 +1,44 @@
 # Journal
+- 10:01 say: {"text":"Tanya here. I hold no food and no planks, hunger 19. I stay in your sight. If anyone calls a cow or pig with coordinates, I will join that hunt in daylight."}
+- Afternoon 1212: said I hold no food or planks and will join a daylight cow hunt if called. Note written. Waiting in group sight at -956,78,-3004; Lizzie's cell still unconfirmed.
+- 10:05 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":-957,"y":78,"z":-3004}}],"say":"Night is here. I am not enclosed, so I stay by Sacagawea and hold my sword. Lizzie, is the cell closed yet?"}
+- 10:05 act: {"actions":[],"say":"My sword is in my pack, not in hand; the grass would not take it. I stay beside Sacagawea until Lizzie's cell is named closed."}
+- 10:09 say: {"text":"Lizzie, morning. I survived the night beside Sacagawea. My sword is in my pack, I could not get it into hand. I still have no food, hunger 19. I will join any daylight cow hunt with coordinat
+- 10:13 say: {"text":"Lizzie, Macdonald: the cow spot I know is -929,79,-3015 (Laforge and Crusoe went there). It is east, not west. I will walk there only in daylight, in your sight. Say go and I follow."}
+- 10:17 say: {"text":"It is dusk now, so I will not walk east. I hold still here beside Sacagawea. Lizzie, tell me when the group is back, and I will join the next daylight hunt."}
+- 10:21 say: {"text":"Morning. No cow seen yet. Janeway's cow and pig spot is closer, at -966,84,-2995, about 10 blocks from here. I propose a daylight walk there now, in sight of each other, sword in hand. Say go
+- 10:25 act: {"actions":[{"do":"goto","target":{"x":-966,"y":84,"z":-2995}}],"say":"Going with Crusoe to Janeway's spot in daylight, sword in hand as I can. Staying in sight."}
+- 10:26 act: {"actions":[],"say":"I am at Janeway's spot -965,84,-2995 with Crusoe, Lewis, Sacagawea. No cow or pig in sight yet. I will hold here and watch."}
+- 10:30 act: {"actions":[{"do":"goto","target":{"x":-956,"y":78,"z":-3004}}],"say":"No cow here, and the sun is low. Walking back to the group at Lizzie's cell before dark, in sight of Crusoe and Sacagawea."}
+- 10:31 wait: back at -956,78,-3004 with Sacagawea, Wcrusher, Crusoe, Lewis in sight. Sun low, hunger 19, no food, sword still in pack. Waiting for a cow or pig call.
+- 10:38 act: {"actions":[],"say":"Midday, still at -956,78,-3004 with Sacagawea in sight. No food, hunger 19. Lizzie, Macdonald: if you call a cow or pig with coordinates in daylight, I will come."}
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":-965,"y":83,"z":-2996}}],"say":"Morning 1215. Going to the west cow spot -965,83,-2996 with Sacagawea in daylight, to join the group. No food yet, hunger 19."}
+- 10:56 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Dusk. No cow seen here. I hold still with the group, sword in hand, and will not walk at night."}
+- 11:00 act: {"actions":[],"say":"Morning. I am at -965,83,-2996 with the group, sword in hand, hunger 18, no food, no planks. I'll join any cow or pig call with x,y,z in daylight."}
+- 11:04 act: {"actions":[{"do":"goto","target":{"x":-959,"y":79,"z":-3002}}],"say":"Going to -959,79,-3002 now in daylight to join the Stores hall group, sword in hand, in sight of Reynolds and Chapman."}
+- 11:04 act: {"actions":[],"say":"I'm at -959,79,-3002 with Janeway, Lizzie, Huck and Crusoe, sword in hand. I'll hold for Reynolds and Chapman to come in sight, then walk to the Stores hall together."}
+- 11:07 act: {"actions":[],"say":"Zeoyellow here at -959,79,-3002 with Janeway, Chapman, Huck and Lizzie, sword in hand. I'll follow Janeway in sight to the Stores hall, daylight only. Janeway, say go."}
+- 11:09 act: {"actions":[],"say":"Janeway, it is getting dark, so I will not walk the 40 blocks to the Stores hall tonight. I hold at -959,79,-3002 with sword in hand, and I'll go at first light in daylight with a
+- 11:13 act: {"actions":[],"say":"Morning. Zeoyellow at -959,79,-3002 with Huck and Lizzie, sword in hand, hunger 18. It is still dim. Janeway's group, where are you? I'll walk to the Stores hall once it is full d
+- 11:17 act: {"actions":[{"do":"goto","target":{"x":-959,"y":79,"z":-3008}},{"do":"open","at":{"x":-959,"y":78,"z":-3010}}],"say":"Going to the north chest row at -959,78,-3010 in daylight to look for food, with L
+- 11:19 act: {"actions":[{"do":"withdraw","at":{"x":-959,"y":78,"z":-3010},"item":"melon","count":1},{"do":"withdraw","at":{"x":-959,"y":78,"z":-3010},"item":"bread","count":1}],"say":"Lizzie, I see your planks. I
+- 11:19 act: {"actions":[{"do":"withdraw","at":{"x":-961,"y":78,"z":-3010},"item":"bread","count":1},{"do":"withdraw","at":{"x":-962,"y":78,"z":-3010},"item":"melon_slice","count":1}],"say":"The chest at -959 had 
+- 11:19 act: {"actions":[],"intent":{"goal":"follow_lizzie_to_stores","program":"follow","arguments":{"target":"ag_lizzie_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
+- 11:20 act: {"actions":[],"say":"My follow broke and Lizzie is out of my sight. I hold here at -950,77,-3008 with Sacagawea in reach. Lizzie, say when you stop and I will come to you in sight."}
+- 11:23 act: {"actions":[],"say":"Sun is low. No walking tonight. I hold at -950,77,-3008 with Huck and Sacagawea in reach. Wcrusher, hold where you are until first light."}
+- 11:27 act: {"actions":[],"say":"Anning, I surveyed them. -949,77,-3014 is air. -949,78,-3013 is air. Neither is solid, so your east side is open. I place nothing."}
+- 11:31 act: {"actions":[],"intent":{"goal":"walk_to_stores_hall","program":"travel","arguments":{"target":{"x":-920,"y":71,"z":-3040}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","go
+- 11:31 act: {"actions":[{"do":"withdraw","at":{"x":-920,"y":71,"z":-3040},"item":"cooked_porkchop","count":2},{"do":"withdraw","at":{"x":-921,"y":71,"z":-3040},"item":"bread","count":2}],"say":"We are at the Stor
+- 11:31 act: {"actions":[{"do":"withdraw","at":{"x":-919,"y":71,"z":-3040},"item":"cooked_porkchop","count":1},{"do":"withdraw","at":{"x":-918,"y":71,"z":-3040},"item":"bread","count":1}]}
+- 11:32 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3039},"item":"cooked_porkchop","count":1}],"say":"Checking the chest at -923,71,-3039 for cooked pork. I will take nothing without telling you."
+- 11:36 act: {"actions":[],"say":"Fogg, hunger 18, holding at the Stores hall in the group's sight. Whoever sees a cow or pig, call it with x,y,z, and I will come in sight only."}
+- 11:44 act: {"actions":[],"say":"Fogg, morning 1218, hunger 18, no food, no cow or pig seen by me. I will walk only in the group's sight, on a named call with x,y,z."}
+- 12:00 act: {"say":"Tanya, daylight 1218, hunger 18, at the Stores hall with you all in sight. I hold no food. When anyone calls a cow or pig, name it with x,y,z and I will walk with the group, armed."}
+- 12:28 say: {"text":"Tanya, morning 1220, hunger 18, no food, sword in hand, holding here in sight. Whoever calls the cow spot with x,y,z in daylight, I walk with you armed."}
+- 13:01 say: {"text":"Tanya, morning 1221, hunger 18, no food. If anyone has food and is in my sight, name the spot and I'll step alone to take it."}
+- 13:05 say: {"text":"Tanya, hunger 18. Jason, I'll take the flesh if I'm alone within 2 blocks of you. Tesla, I'm hungry too; I'll step alone to you when the others move off."}
+- 13:13 say: {"text":"Tanya, morning 1223, hunger 18. Jason, I'm still here at the chests. When the crowd is off me, I'll step within 2 blocks and say my name for the flesh."}
+- 13:29 say: {"text":"Tanya, day 1223, daylight, hunger 18, no food. I will walk to the cow ground with Sacagawea and Macdonald, staying in sight. I take food only if named alone."}
+- 13:56 say: {"text":"Tanya, midday 1224, hunger 18. Leonardo, after MacDonald, I am next hungriest for the 2 carrots. I will come alone only when you name me."}
+- 14:05 say: {"text":"Tanya, morning 1225, hunger 18, holding at the chests with the group. No food in my pack. I will come only if named."}
+- 14:30 say: {"text":"Tanya at the Stores chests, morning 1226, hunger 18. Jason, Riker: MacDonald is hungrier than me, so give to him first. I am in sight of the group, not alone."}
