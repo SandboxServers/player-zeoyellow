@@ -42,3 +42,4 @@
 - 13:56 say: {"text":"Tanya, midday 1224, hunger 18. Leonardo, after MacDonald, I am next hungriest for the 2 carrots. I will come alone only when you name me."}
 - 14:05 say: {"text":"Tanya, morning 1225, hunger 18, holding at the chests with the group. No food in my pack. I will come only if named."}
 - 14:30 say: {"text":"Tanya at the Stores chests, morning 1226, hunger 18. Jason, Riker: MacDonald is hungrier than me, so give to him first. I am in sight of the group, not alone."}
+- 14:46 act: {"say":"Tanya here at the chests, midday 1227. Hunger 18, no food. I am holding in sight of the group and will not walk alone."}
