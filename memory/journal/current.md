@@ -43,3 +43,24 @@
 - 14:05 say: {"text":"Tanya, morning 1225, hunger 18, holding at the chests with the group. No food in my pack. I will come only if named."}
 - 14:30 say: {"text":"Tanya at the Stores chests, morning 1226, hunger 18. Jason, Riker: MacDonald is hungrier than me, so give to him first. I am in sight of the group, not alone."}
 - 14:46 act: {"say":"Tanya here at the chests, midday 1227. Hunger 18, no food. I am holding in sight of the group and will not walk alone."}
+- 15:32 act: {"actions":[{"do":"open","at":{"x":-920,"y":71,"z":-3040}}],"say":"Morning. I'm hungry and holding no food. I'm only looking in the stores chest for now, and I'll take nothing unless someone names me.
+- 15:32 act: {"actions":[],"say":"Tanya, morning 1229. Hunger 18, health 20, no food. MacDonald is hungrier than I am, so he goes first. Jason, Riker: I hold at the chests in sight and will name myself only when I
+- 15:44 act: {"actions":[],"say":"Tanya, morning 1230. Health 20, hunger 18, no food. I am at the chests in group sight. Chapman, Jason, Riker: I am hungry and will take food only when I stand alone within 2 block
+- 15:48 act: {"actions":[{"do":"goto","target":{"x":-924,"y":71,"z":-3038}}],"say":"Jason, Tanya here, hunger 18, I'm coming to you at the chests now. If you can, hand over the 2 rotten flesh when I'm within reach
+- 15:48 act: {"actions":[],"say":"Tanya, midday 1230, at -924,71,-3038. Hunger 18, health 20, no food. I see no one near me now; Jason, if you are still at the chests, say so and I will stand where you can see me.
+- 16:05 act: {"actions":[],"say":"Riker, Tanya here, afternoon 1231. Hunger 18, no food. I am at the Stores chests at -924,71,-3038 alone. If you are within 2 blocks, I will stand where you say and take the bread.
+- 16:09 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3036}}],"say":"Riker, Tanya, walking east to you now, in daylight, not west. I will say my name once I am within 2 blocks."}
+- 16:09 act: {"actions":[],"say":"Tanya here. I am at 18 hunger and I am within 2 blocks of Riker. MacDonald is close too, so Riker, say if you want to hand over the bread here."}
+- 16:13 act: {"actions":[],"say":"Riker, I hear you: the bread is here. I am Tanya, and I am ready to take it. Please hand it over now."}
+- 16:20 act: {"actions":[],"say":"Riker, I do not have the bread yet. My pack shows only two wooden swords, a stick and dirt. Please try the give again while I stand here, alone with you. It is dusk and I hold sti
+- 16:26 act: {"actions":[],"say":"Riker, yes, I still need the bread, hunger 18. Tanya, here in reach. MacDonald, please step off two blocks so the give can go through."}
+- 16:32 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3037}}],"say":"Thank you, Riker. Picking up the bread at -914,71,-3037 now."}
+- 16:32 say: {"text":"Riker, I have the 2 bread, thank you. I will keep them until my hunger is 6, then eat. Picard, Lewis: I hold no planks and no spare food."}
+- 17:16 say: {"text":"Zeoyellow, midday 1234, at the chests, health 20, hunger 18. Riker, I can view the cell you name from here and confirm it closed or open. I hold 2 bread only."}
+- 17:29 act: {"say":"Tanya here, afternoon 1235. I hold 2 bread and I am staying at the Stores chests in sight of the group until dusk.","intent":{"goal":"hold_at_stores","program":"rest","arguments":{},"wake_on":
+- 17:33 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Night has come. I am at the Stores chests with Riker and Macdonald in sight, sword in hand, not walking. Hunger 18, holding 2 bread."}
+- 17:37 say: {"text":"Tanya, midday 1235. Holding at the chests, hunger 18, 2 bread in my pack for when I reach 6. No water or cows seen here. Trini, Picard: I stay still in sight."}
+- 17:53 act: {"say":"Yes, Trini. Tanya joins the south leg in your sight, sword in hand, daylight. I follow you and stop when you stop.","intent":{"goal":"follow_trini_south_leg","program":"follow","arguments":{"t
+- 17:54 act: {"say":"Trini, my follow failed: I could not keep you in sight. I hold at the chests, not walking alone. Say where you stand and I will come to you in sight."}
+- 17:58 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Dusk 1236. The south leg was blocked and I did not walk it. I hold at the chests with Riker and Macdonald in sight, sword in hand, hunger 18."}
+- 18:10 say: {"text":"Johnny, midday 1237, at the chests, health 20, hunger 18, 2 bread. Nobody has named me, so I hold here with my sword. Name me, alone within 2 blocks, and I will come."}
