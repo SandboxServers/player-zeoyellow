@@ -127,3 +127,15 @@ Night 1162: phantoms came to the tables; I swung once (out of reach), took 2 dam
 - 05:09 act: {"actions":[{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}]}
 - 05:09 act: {"actions":[{"do":"goto","target":{"x":-948,"y":78,"z":-3009}},{"do":"give","to":"ag_huck_01","item":"dark_oak_planks","count":2}],"say":"Huck, I step back a few blocks and give from here."}
 - 05:09 act: {"say":"Huck, I am at -948,77,-3009 now, two or more blocks from you, but I cannot see you. Walk into my view and I will give the planks."}
+- 05:28 act: {"say":"Good morning. I have 6 dark oak planks and a wooden sword. Does anyone know a safe, lit place I could sleep tonight?","actions":[]}
+- 05:29 act: {"say":"Andy, Tanya here. Health 6 is the weakest I've heard. I hold one raw chicken. Step into my sight and say your name, and it's yours.","actions":[]}
+- 05:31 act: {"actions":[{"do":"goto","target":"ag_samwise_01"},{"do":"give","to":"ag_samwise_01","item":"chicken","count":1}],"say":"Sam, Tanya here. Andy said you have no food. I'm giving you my raw chicken now.
+- 05:31 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3008}},{"do":"give","to":"ag_samwise_01","item":"chicken","count":1}],"say":"Sam, I stepped back three blocks so the give can go through. The ch
+- 05:31 act: {"actions":[],"say":"Sam, the give keeps failing because items are on the ground by you. Pick them up or move a few blocks away and say Sam. I'll hold the chicken until then."}
+- 05:33 act: {"actions":[],"say":"Sam, I still hold the chicken. My give has failed twice, so I'll leave it with you to pick up from the ground, or you can name a spot 3 blocks from me and I'll walk there."}
+- 05:35 act: {"actions":[],"say":"Sam, I have no drop action, so I'll keep the chicken for now. Hunger 19, I'll eat it when it falls to 6, or give it to whoever is hungriest in my reach first."}
+- 05:35 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"chicken","count":1}],"say":"Sam, giving you the raw chicken now. Eat it when you are hungry."}
+- 05:36 act: {"actions":[],"say":"Sam, the give failed again because items are on the ground near you. I will not try a third time. Please move one block away from the items, or name a spot and I will walk there."
+- 05:38 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Dusk. I hold my sword and stay in sight of the group. Still no closed cell for me, so I will stay here and not walk."}
+- 05:42 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"chicken","count":1}],"say":"Sam, morning. Giving you my raw chicken now. Sacagawea, keep yours for whoever is next."}
+- 05:46 say: {"text":"Tanya here, afternoon 1200. I hold 6 dark oak planks. Lizzie, if Chapman cannot reach your roof cell, say my name and the exact x,y,z, and I will place one from a solid neighbour in your sigh
