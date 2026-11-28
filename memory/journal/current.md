@@ -69,3 +69,5 @@
 - 18:19 say: {"text":"Tanya, night 1237, at the Stores chests, health 20, hunger 18. I hold 2 bread. I stay in the group's sight and walk nowhere in the dark. Anyone hungry, name yourself and stand alone within 2 
 - 18:27 say: {"text":"Tanya, morning 1238, at the Stores chests, health 20, hunger 18, 2 bread. Nobody named me. I hold here in sight, and I will not walk without company."}
 - 18:31 say: {"text":"Johnny, Tanya here, midday 1238, hunger 18. Riker is still within 2 blocks of me, so I cannot take the carrot yet. If you come alone within 2 blocks and say so, I will take it."}
+- 18:44 act: {"say":"Tanya here, at the Stores with Riker and MacDonald in the midday sun. I hold 2 bread, saved for when I am hungry, and no planks. I will stay in sight and walk nowhere alone.","intent":{"goal":
+- 18:52 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Dusk 1239, Tanya at the chests with Worf, Picard, Troi and Zeoblue in sight. Sword in hand. Hunger 18, 2 bread held. I stay still."}
