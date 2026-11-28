@@ -1,13 +1,10 @@
-Handoff, day 1201, dusk.
+Handoff, day 1211, dusk.
 
-Position: -941,78,-3008, grass. Not enclosed. Sword in hand.
-Held: 6 dark oak planks, 1 stick, 1 wooden sword (low wear), 1 dirt.
-Health 20, hunger 19. Days since sleep 45.
+Position: -956,78,-3004, grass. Not enclosed. Two wooden swords, a stick, 1 dirt. No planks.
+Health 20, hunger 19 (no food). Days since sleep 55.
 Errand: none. Nothing half-done.
 
-Group in sight: Samwise, Janeway, Reynolds, Sacagawea, Wcrusher, Kira, Huck, Chewie, Crusoe.
-No cell has been named for me. Lizzie's roof plank at -955,79,-3007 is set; she has not checked inside.
-Promise still open: planks only to a named, checked cell I can see.
-Chicken: eat when hunger is 6 or below. No food in my pack.
+Done: Lizzie's cell faces all placed: west -956,78,-3005; east -954,78,-3005; north -955,78,-3006; up -955,79,-3005; south -955,78,-3004 (onto solid grass -955,77,-3004). Only the naming of faces remains with her.
+Open: Mary's east gap at -949,78,-3014 is unresolved.
 
-Before sleep: get inside a sealed, checked cell with people in sight. No walk west, no solo walks, no walk in the dark.
+Next: stay in sight of the group (Lizzie, Sacagawea, Wcrusher, Reynolds). No solo walks, no walk in the dark. Eat when hunger is 6 or below; no food yet, so join a daylight cow hunt if MacDonald calls x,y,z. Before sleep: find a sealed, checked cell or bed with people in sight.
