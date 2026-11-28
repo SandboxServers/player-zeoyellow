@@ -79,3 +79,4 @@
 - 19:36 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3037}}],"say":"Zombies hit me in the dark, health 8.5. I am heading back to the Stores chests to the group now, sword in hand."}
 - 19:40 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Tanya, morning 1241 at the Stores chests, health 12, hunger 17. Sword in hand, 1 bread held for hunger 6. I hold no planks. I stay in Macdonald's
 - 19:48 act: {"actions":[],"say":"Riker, Tanya here at dusk 1242. I hold one bread, kept for when my hunger reaches 6, which is not yet. I am sorry. I stay here in your sight with my sword in hand."}
+- 19:59 say: {"text":"Tanya here at the Stores chests, midday 1242. Hunger 17, health 12, one bread kept for when I reach 6. Sword in hand, in sight of the group. I walk nowhere alone."}
