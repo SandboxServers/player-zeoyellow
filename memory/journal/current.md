@@ -63,4 +63,9 @@
 - 17:53 act: {"say":"Yes, Trini. Tanya joins the south leg in your sight, sword in hand, daylight. I follow you and stop when you stop.","intent":{"goal":"follow_trini_south_leg","program":"follow","arguments":{"t
 - 17:54 act: {"say":"Trini, my follow failed: I could not keep you in sight. I hold at the chests, not walking alone. Say where you stand and I will come to you in sight."}
 - 17:58 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Dusk 1236. The south leg was blocked and I did not walk it. I hold at the chests with Riker and Macdonald in sight, sword in hand, hunger 18."}
-- 18:10 say: {"text":"Johnny, midday 1237, at the chests, health 20, hunger 18, 2 bread. Nobody has named me, so I hold here with my sword. Name me, alone within 2 blocks, and I will come."}
+- 18:10 say: {"text":"Johnny, midday 1237, at the chests, health 20, hunger 18, 2 bread. Nobody has named me, so I hold here with my sword. Name me, alone within 2 blocks, and I will come.
+- night 1237: held at Stores chests in group sight, 2 bread, hunger 18, no one named me; said so. Waiting.
+- day 1238: morning and midday held at chests, hunger 18. Johnny offered a carrot if I stand alone; Riker was within 2 blocks, so I told Johnny I need him alone within 2 blocks. Dusk 1238 now, holding in sight."}
+- 18:19 say: {"text":"Tanya, night 1237, at the Stores chests, health 20, hunger 18. I hold 2 bread. I stay in the group's sight and walk nowhere in the dark. Anyone hungry, name yourself and stand alone within 2 
+- 18:27 say: {"text":"Tanya, morning 1238, at the Stores chests, health 20, hunger 18, 2 bread. Nobody named me. I hold here in sight, and I will not walk without company."}
+- 18:31 say: {"text":"Johnny, Tanya here, midday 1238, hunger 18. Riker is still within 2 blocks of me, so I cannot take the carrot yet. If you come alone within 2 blocks and say so, I will take it."}
